@@ -1,0 +1,82 @@
+[
+  {
+    "title": "A flashing red traffic light signifies that a driver should do what?",
+    "answer_1": "stop",
+    "answer_2": "speed up",
+    "answer_3": "proceed with caution",
+    "answer_4": "honk the horn",
+    "right_answer": "stop"
+  },
+  {
+    "title": "A knish is traditionally stuffed with what filling?",
+    "answer_1": "potato",
+    "answer_2": "creamed corn",
+    "answer_3": "lemon custard",
+    "answer_4": "raspberry jelly",
+    "right_answer": "potato"
+  },
+  {
+    "title": "A pita is a type of what?",
+    "answer_1": "fresh fruit",
+    "answer_2": "flat bread",
+    "answer_3": "French tart",
+    "answer_4": "friend bean dip",
+    "right_answer": "flat bread"
+  },
+  {
+    "title": "A portrait that comically exaggerates a person's physical traits is called a what?",
+    "answer_1": "landscape",
+    "answer_2": "caricature",
+    "answer_3": "still life",
+    "answer_4": "Impressionism",
+    "right_answer": "caricature"
+  },
+  {
+    "title": "A second-year college student is usually called a what?",
+    "answer_1": "sophomore",
+    "answer_2": "senior",
+    "answer_3": "freshman ",
+    "answer_4": "junior ",
+    "right_answer": "sophomore"
+  },
+  {
+    "title": "A student who earns a J.D. can begin his or her career as a what?",
+    "answer_1": "lawyer",
+    "answer_2": "bricklayer",
+    "answer_3": "doctor",
+    "answer_4": "accountant",
+    "right_answer": "lawyer"
+  },
+  {
+    "title": "A triptych is a work of art that is painted on how many panels?",
+    "answer_1": "two",
+    "answer_2": "three",
+    "answer_3": "five",
+    "answer_4": "eight",
+    "right_answer": "three"
+  },
+  {
+    "title": "According to a famous line from the existentialist play 'No Exit' what is hell?",
+    "answer_1": "oneself",
+    "answer_2": "other people",
+    "answer_3": "little made large",
+    "answer_4": "hued in green and blue",
+    "right_answer": "other people"
+  },
+  {
+    "title": "Who was the first First Lady to run for political office?",
+    "answer_1": "Hillary Clinton",
+    "answer_2": "Rosalynn Carter",
+    "answer_3": "Bess Truman",
+    "answer_4": "Eleanor Roosevelt",
+    "right_answer": "Hillary Clinton"
+  },
+  {
+    "title": "Who was the first US president to resign from that office?",
+    "answer_1": "Martin Van Buren",
+    "answer_2": "Andrew Jackson",
+    "answer_3": "Andrew Johnson",
+    "answer_4": "Richard Nixon",
+    "right_answer": "Richard Nixon"
+  }
+]

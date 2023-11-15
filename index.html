@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <h1>Quiz App</h1>
+    <div class="quiz-app">
+      <div class="quiz-info">
+        <div class="category">Category: <span>HTML</span></div>
+        <div class="count">
+          Questions Count: <span><!--10--></span>
+        </div>
+      </div>
+      <div class="quiz-area">
+        <!-- <h2>Why We Use &lt;br&gt; Element</h2> -->
+      </div>
+      <div class="answers-area">
+        <!-- 
+          <div class="answer">
+          <input type="radio" id="answer_1" name="questiosn" checked />
+          <label for="answer_1">Answer 1</label>
+        </div>
+        <div class="answer">
+          <input type="radio" id="answer_2" name="questiosn" />
+          <label for="answer_2">Answer 2</label>
+        </div>
+        <div class="answer">
+          <input type="radio" id="answer_3" name="questiosn" />
+          <label for="answer_3">Answer 3 -> OK</label>
+        </div>
+        <div class="answer">
+          <input type="radio" id="answer_4" name="questiosn" />
+          <label for="answer_4">Answer 4</label>
+        </div>
+        -->
+      </div>
+      <button class="submit-button">Submit Answer</button>
+      <div class="bullets">
+        <div class="spans">
+          <!--
+            <span class="on"></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+          -->
+        </div>
+        <div class="countdown">
+          <!-- <span class="minutes">02</span> :
+          <span class="seconds">45</span> -->
+        </div>
+      </div>
+      <div class="results">
+        <!-- <span class="perfect">Perfect</span> You Answered 10 From 10 -->
+      </div>
+    </div>
+    <audio id="success" src="./audio/success3.mp3" preload="auto"></audio>
+    <audio id="fail" src="./audio/fail1.mp3" preload="auto"></audio>
+    <script src="./main.js"></script>
+  </body>
+</html>
